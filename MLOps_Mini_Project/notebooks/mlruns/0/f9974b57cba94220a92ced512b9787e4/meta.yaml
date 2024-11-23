@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Mini_Project/nlops-mini-project/MLOps_Mini_Project/notebooks/mlruns/0/f9974b57cba94220a92ced512b9787e4/artifacts
+end_time: 1732372204010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9974b57cba94220a92ced512b9787e4
+run_name: judicious-pig-353
+run_uuid: f9974b57cba94220a92ced512b9787e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732372157720
+status: 3
+tags: []
+user_id: preet
