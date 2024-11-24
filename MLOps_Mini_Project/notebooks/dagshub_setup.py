@@ -8,3 +8,5 @@ dagshub.init(repo_owner='preeti.sahay5182', repo_name='MLOps-_Mini_Project', mlf
 with mlflow.start_run():
   mlflow.log_param('parameter name', 'value')
   mlflow.log_metric('metric name', 1)
+
+  conda activate D:\Mini_Project\nlops-mini-project\venv
